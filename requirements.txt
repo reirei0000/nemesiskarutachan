@@ -1,0 +1,5 @@
+fire
+mwt
+pandas
+pillow
+python-telegram-bot
